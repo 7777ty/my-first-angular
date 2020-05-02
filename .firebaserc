@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-first-angular-cf156": {
+      "hosting": {
+        "my-first-angular": [
+          "my-first-angular-cf156"
+        ]
+      }
+    }
+  }
+}
